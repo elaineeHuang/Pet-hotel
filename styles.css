@@ -1,0 +1,91 @@
+/* LANDING PAGE */
+.landing-page {
+  background-color: #51EAEA;
+  background-size: auto;
+  background-position: center;
+  height: 100vh;
+}
+
+.landing-page h1 {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20%;
+  color: #FFFDE1;
+}
+
+
+/* NAVBAR */
+.navbar {
+  background-color: #FFFDE1;
+}
+
+a {
+  color: #FF9D76 !important;
+  font-weight: bold;
+}
+
+
+/* FEATURES */
+#features {
+  padding: 10% 13%;
+}
+
+.features-box {
+  text-align: center;
+  padding: 30px;
+}
+
+.features-box h2 {
+  font-weight: bold;
+}
+
+.features-box p {
+  color: #BBBBBB;
+}
+
+.icon {
+  padding-bottom: 20px;
+  color: #FB3569;
+}
+
+
+/* TESTIMONIALS */
+#testimonials {
+  background: #FF9D76;
+  text-align: center;
+  padding: 8% 13%;
+}
+
+.dogpic {
+  width: 200px;
+  border-radius: 90%;
+}
+
+.carousel-item h2 {
+  font-weight: bold;
+  color: white;
+  padding-bottom: 60px;
+}
+
+.carousel-item p {
+  font-weight: bold;
+  color: #51EAEA;
+  padding-top: 30px;
+
+}
+
+/* APPOINTMENT */
+#appointment {
+  padding: 10% 13%;
+}
+
+.form h2 {
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.form p {
+  color: #FB3569;
+  text-align: left;
+}
