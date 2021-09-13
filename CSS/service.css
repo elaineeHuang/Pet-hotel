@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #FFFDE1;
+}
+
+a {
+  color: #FF9D76 !important;
+  font-weight: bold;
+}
+
+
+/* SERVICE TITLE */
+.service-title {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+
+/* SALON */
+#salon {
+  padding: 3% 13% 1% 13%;
+  margin-top: 56px;
+  text-align: center;
+}
+
+.pet {
+  justify-content:center;
+}
+
+.salon-plan {
+  text-align: center;
+  padding: 100px 60px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background: #FFFDE1;
+  border-radius: 5%
+}
+
+#salon h1 {
+  color: #FF9D76;
+}
+
+.pet-icon {
+  margin-bottom: 20px;
+}
+
+.salon-plan h2{
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #51EAEA;
+}
+
+.salon-plan h5{
+  margin-bottom: 20px;
+  color:#FF9D76;
+}
+
+.salon-plan p {
+  color: #BBBBBB;
+}
+
+
+/* HOTEL */
+#hotel {
+  padding: 3% 13% 1% 13%;
+  background: #51EAEA;
+}
+
+.hotel {
+  justify-content: center;
+}
+
+
+#hotel h1 {
+  color: #FFFDE1
+}
+
+.hotel-plan {
+  text-align: center;
+  padding: 80px 50px;
+  margin:10px;
+  background: white;
+  border-radius: 5%
+}
+
+.hotel-plan h2{
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.hotel-plan h6{
+  margin-bottom: 40px;
+  color:#FF9D76;
+}
+
+.icon {
+  color:#FF9D76;
+  padding-bottom: 20px;
+}
