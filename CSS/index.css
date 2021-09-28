@@ -89,3 +89,10 @@ a {
   color: #FB3569;
   text-align: left;
 }
+
+
+.footer p {
+  text-align: right;
+  color: gray;
+  font-size: 12px;
+}
